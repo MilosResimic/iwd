@@ -8,7 +8,7 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "Network is based on tweets containing hashtag #InternationalWomensDay. The overall network has, but it was filtered based o degree range for better visibility.",
+    "more": "Network is based on tweets containing hashtag #InternationalWomensDay. The overall network has 14592 nodes, and 10863 edges, but it was filtered based on the degree range for better visibility.",
     "intro": " ",
     "title": "International Women's day twitter network"
   },
